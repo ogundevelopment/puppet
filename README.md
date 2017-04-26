@@ -38,6 +38,14 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Git Commands
 ### git local repo updaten
-1. git pull origin master
+```
+git pull origin master
+```
+### git commit repo files
+```
+git commit -m "text"
+```
 ### git local repo pushen naar master
-2. git push origin master
+```
+git push origin master
+```
